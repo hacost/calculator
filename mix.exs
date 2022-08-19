@@ -39,7 +39,7 @@ defmodule Calculator.MixProject do
     [
       maintainers: ["Héctor Acosta"],
       licenses: ["MIT"],
-      links: %{"GitHub" => ""}
+      links: %{"GitHub" => "https://github.com/hacost/calculator.git"}
     ]
   end
 end
